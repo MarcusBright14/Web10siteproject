@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './styles/globals.css';
 import { WireframeLayout } from './components/WireframeLayout';
 import { Navigation } from './components/Navigation';
 import { HomePage } from './components/pages/HomePage';
